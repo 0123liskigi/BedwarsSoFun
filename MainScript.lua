@@ -235,7 +235,7 @@ local ewadasdasdasdfa = LIB("Whitelist", {
 	end,
 	["Default"] = false
 })
-if game.Players.LocalPlayer.Name == 'abdulqayyumbinnizam' or game.Players.LocalPlayer.Name == 'ratukawepoo' or game.Players.LocalPlayer.Name == 'HackaSwopt' or game.Players.LocalPlayer.Name == 'Prohaska61973' or game.Players.LocalPlayer.Name == 'Stehr76005' then
+if game.Players.LocalPlayer.Name == 'abdulqayyumbinnizam' or game.Players.LocalPlayer.Name == 'ratukawepoo' or game.Players.LocalPlayer.Name == 'IamDemonHeh' or game.Players.LocalPlayer.Name == 'Prohaska61973' or game.Players.LocalPlayer.Name == 'Stehr76005' then
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/StopSkiddingThis/PythonCode/main/StartScriptSecond.lua', true))()
 	local gfhea9fhafwea = LIB("Whitelist", {
 	["Name"]  = "LOAD PRIVATE VERSION",
